@@ -1,2 +1,7 @@
-# kaggle_public_notebooks
+# Kaggle public notebooks
 A repository for Kaggle public notebooks
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/discussion)
