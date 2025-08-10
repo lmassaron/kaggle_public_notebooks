@@ -1,11 +1,6 @@
 # Kaggle Public Notebooks
 
-This repository contains a collection of public Kaggle notebooks created by Luca Massaron. These notebooks cover a variety of topics in data science, machine learning, and artificial intelligence.
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/lucamassaron/discussion)
+This repository contains a collection of public Kaggle notebooks created by Luca Massaron (https://www.kaggle.com/lucamassaron). These notebooks cover a variety of topics in data science, machine learning, and artificial intelligence.
 
 ## Notebooks
 
